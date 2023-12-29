@@ -18,7 +18,7 @@ export class BinhLuanService {
                 hinh_id: idImg
             }
         })
-
+        console.log(data)
         return data
     }
 }
